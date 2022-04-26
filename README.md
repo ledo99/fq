@@ -1,4 +1,4 @@
-# fq.github.io
+# FanQiang
 FanQiang
 https://ledo99.github.io/fq/
 
